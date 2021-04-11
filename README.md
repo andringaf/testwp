@@ -1,4 +1,4 @@
-# codeigniter-login-logout-register
+# codeigniter
 A user login, logout, register start for Codeigniter 3
 
 ## Notice
